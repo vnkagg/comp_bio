@@ -1,0 +1,10 @@
+Total SASA of the interface in the complex: 4137.847
+Total SASA of the protein: 24067.839
+Total SASA of the RNA: 12905.951
+Total SASA of backbone atoms of protein: 2101.042
+Total SASA of side chain atoms of the protein: 21966.797
+Number of atoms in the interface: 488
+Number of atoms in the boundary of the interface: 76
+Number of atoms in the core: 1960
+Number of atoms on the surface: 2963
+% Total SASA contribution by side chain protein atoms overall: 91.27
